@@ -14,6 +14,10 @@ This repository is designed for Python enthusiasts, students, and developers who
     <img src="https://pandas.pydata.org/static/img/pandas.svg"><br>
 </div>
 
+Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. Pandas is a Python library.
+
+Check out our [Pandas home page](https://pandas.pydata.org/) for more information.
+
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
@@ -86,3 +90,7 @@ This repository is designed for Python enthusiasts, students, and developers who
 
 <h3>License</h3>
 <p>Pythonly is released under the <b>MIT License.</b></p>
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{sksalahuddin2828}/count.svg)

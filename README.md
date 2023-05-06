@@ -89,7 +89,7 @@ Check out our [Pandas home page](https://pandas.pydata.org/) for more informatio
 | Acknowledgements | |
 
 <h3>License</h3>
-<p>Pythonly is released under the <b>MIT License.</b></p>
+<p>Python is released under the <b>MIT License.</b></p>
 
 ## Visitor Count
 

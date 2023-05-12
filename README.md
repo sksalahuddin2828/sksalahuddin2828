@@ -2,7 +2,7 @@
 - 👀 I’m interested in to learning something new with creativity...
 - 🌱 I’m currently learning Python in Stanford University California United States
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Sk.++Salahuddin+I+am+currently+working+as+Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Sk.++Salahuddin+I+am+currently+learning+Python)](https://git.io/typing-svg)
 
 ![](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 

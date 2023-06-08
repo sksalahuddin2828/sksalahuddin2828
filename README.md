@@ -60,7 +60,7 @@ Check out our [Pandas home page](https://pandas.pydata.org/) for more informatio
 
 |     Sk. Salahuddin GitHub Stats                                                                                                                   | Python                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Sk. Salahuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksalahuddin2828&show_icons=true&theme=radical) | [![Sk. Salahuddin's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksalahuddin2828&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Sk. Salahuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksalahuddin2828&show_icons=true&theme=radical) | [![Sk. Salahuddin's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksalahuddin2828&langs_count=8&layout=compact&theme=radical)](https://github.com/sksalahuddin2828/github-readme-stats) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalahuddin2828"></img>
 

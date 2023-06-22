@@ -64,36 +64,6 @@ Check out our [Pandas home page](https://pandas.pydata.org/) for more informatio
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksalahuddin2828"></img>
 
-| Table of Contents | |
-| --- | --- |
-| **Getting Started** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=white&color=%23FFCE5A) ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)|
-| Installation IDE | ![PyCharm](https://img.shields.io/badge/PyCharm-white?style=flat-square&logo=pycharm&logoColor=black) ![VS Code](https://img.shields.io/badge/VSCode-white?style=flat-square&logo=visualstudiocode&logoColor=0173C1) |
-| Hello World | |
-| Variables and Data Types | |
-| **Control Structures** | |
-| Conditional Statements | |
-| Loops | |
-| **Functions and Modules** | |
-| Built-in Functions | |
-| Creating Functions | |
-| Importing Modules | |
-| **Object-Oriented Programming** | |
-| Classes and Objects | |
-| Inheritance and Polymorphism | |
-| **File Input and Output** | |
-| Reading Files | |
-| Writing Files | |
-| **Advanced Topics** | |
-| Regular Expressions | |
-| Multithreading | |
-| Networking | |
-| **Contributing** | |
-| Guidelines | |
-| Code of Conduct | |
-| **Credits** | |
-| Authors | |
-| Acknowledgements | |
-
 <h3>License</h3>
 <p>Python is released under the <b>MIT License.</b></p>
 

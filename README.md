@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sksalahuddin2828
+- 👋 Hi, I’m @sksalahuddin2828 
 - 👀 I’m interested in to learning something new with creativity...
 - 🌱 I’m currently learning Python in Stanford University California United States
 

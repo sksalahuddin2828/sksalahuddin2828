@@ -7,7 +7,7 @@ runs:
   image: docker://platane/snk@sha256:bd0f7538482216785abbee29da431738f5ea9aff9fc3a4b8df37708a808f0968
 
 inputs:
-  github_user_name:
+  github_user_name: "sksalahuddin2828"
     description: "GitHub username"
     required: true
 outputs:
@@ -16,7 +16,9 @@ outputs:
   description: |
     List of files to generate.
     One file per line. Each output can be customized with options as a query string.
+-
     Supported query string options:
+-
     - palette:      A preset of color, one of [github, github-dark, github-light]
     - color_snake:  Color of the snake
     - color_dots:   Comma-separated list of dot colors.

@@ -58,7 +58,7 @@ Check out our [Pandas home page](https://pandas.pydata.org/) for more informatio
 ### 📈 GitHub Activity Graph:
 [![Sk. Salahuddin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sksalahuddin2828&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/sksalahuddin2828/github-readme-activity-graph)
 
-|     Sk. Salahuddin GitHub Stats                                                                                                                   | Languages                                                                                                                         |
+|     Sk. Salahuddin's GitHub Stats                                                                                                                   | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Sk. Salahuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksalahuddin2828&show_icons=true&theme=radical) | [![Sk. Salahuddin's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksalahuddin2828&langs_count=8&layout=compact&theme=radical)](https://github.com/sksalahuddin2828/github-readme-stats) |
 

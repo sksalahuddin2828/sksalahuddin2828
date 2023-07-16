@@ -6,8 +6,7 @@
 
 ![](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
-![Snake animation](https://github.com/sksalahuddin2828/sksalahuddin2828/blob/output/github-contribution-grid-snake.svg)
-https://github.com/sksalahuddin2828/sksalahuddin2828/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/sksalahuddin2828/sksalahuddin2828/blob/output/github-contribution-grid-snake.gif)
 
 <h1> Pythonly - A Pythonic Journey </h1>
 

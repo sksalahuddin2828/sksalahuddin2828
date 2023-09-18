@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sksalahuddin2828 
 - 👀 I’m interested in to learning something new with creativity...
-- 🌱 I’m currently learning Python in Stanford University California United States
+- 🌱 I’m currently deep learning data science in Harvard University United States, and research with Massachusetts Institute of Technology
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Sk.++Salahuddin+currently+deep+learning+with+Python)](https://git.io/typing-svg)
 
